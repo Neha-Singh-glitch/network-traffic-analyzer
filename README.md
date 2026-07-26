@@ -25,4 +25,6 @@ Displays real-time traffic analysis in terminal
 pip install pyshark
 python traffic_analyzer.py
 
-# Sample Output
+
+
+
